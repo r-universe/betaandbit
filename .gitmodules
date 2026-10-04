@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "RougeLM"]
 	path = RougeLM
-	url = https://github.com/betaandbit/rougelm
+	url = https://github.com/betaandbit/roguelm
